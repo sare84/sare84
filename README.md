@@ -3,17 +3,9 @@
 - 🌱 I’m currently learning again Angular with NGRX and all the new stuff here
 - 📫 How to reach me:
 
-
-<a href="https://www.linkedin.com/in/sascha-reichert-344a2b17a/">
-  <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/>
-</a>
-<a href="https://twitter.com/sare84">
-  <img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/>
-</a>
-<a href="mailto:reichert.sascha@gmail.com">
-  <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" title="Gmail" alt="Gmail Account" width="40"/>
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/sascha-reichert-344a2b17a/")
+[![LinkedIn](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sare84)
+[![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reichert.sascha@gmail.com)
 
 - Techstack:
 
