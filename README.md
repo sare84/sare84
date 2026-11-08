@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sare84. I'm from Germany / Saarland and I work for [Asseco Solutions](www.assecosolutions.com)
+- 👋 Hi, I’m @sare84. I'm from Germany / Saarland 
 - 👀 I’m interested in new technologies and interesting projects
 - 🌱 I’m currently learning again Angular with NGRX and all the new stuff here
 - 📫 How to reach me:
